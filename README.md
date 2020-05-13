@@ -11,7 +11,7 @@ go run hello-world.go
 
 # Web Frameworks for Golang:
 
-[Gin Gonic](https://gin-gonic.com/docs/quickstart/)
-[Beego](https://beego.me/docs/intro/)
+- [Gin Gonic](https://gin-gonic.com/docs/quickstart/)
+- [Beego](https://beego.me/docs/intro/)
 
 
